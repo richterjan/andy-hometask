@@ -2,8 +2,8 @@
 hometask JAVA
 
 # 1. compile
->javac CreateFile.java
+>javac Main.java
 
 # 2. run
->java CreateFile
+>java Main
 
